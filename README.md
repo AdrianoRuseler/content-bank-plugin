@@ -1,4 +1,5 @@
 # content-bank-plugin
+- https://github.com/ferranrecio/moodle-contenttype_html
 - https://events.moodle.com/course/view.php?id=48
 
 ## Content bank content types
